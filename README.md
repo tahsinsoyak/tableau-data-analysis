@@ -38,20 +38,19 @@ The analysis uses the following data sources:
 ## Project Structure
 ```
 tableau-data-analysis/
-├── data/                  # Raw and processed data files
-├── workbooks/             # Tableau workbook files (.twb or .twbx)
-├── screenshots/           # Images of key visualizations
-└── documentation/         # Additional documentation files
+├── test_data/                # Raw and processed data files
+├── test_analysis/            # Tableau workbook files (.twb or .twbx)
+├── screenshots/              # Images of key visualizations
 ```
 
 ## Screenshots
-![Dashboard Example](screen1.png)
+![Dashboard Example](screenshots/screen1.png)
 *Product Dashboard*
-![Dashboard Example](screen2.png)
+![Dashboard Example](screenshots/screen2.png)
 *Sales Dashboard*
-![Dashboard Example](screen3.png)
+![Dashboard Example](screenshots/screen3.png)
 *Athlete Dashboard*
-![Dashboard Example](screen4.png)
+![Dashboard Example](screenshots/screen4.png)
 *House Price Dashboard*
 
 ## Contributing
